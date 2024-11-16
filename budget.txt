@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 Here is a list of the five largest Polish cities by population and their indicative budgets for 2024:
 
 Warszawa - ok. 1,8 mln mieszkańców. Budżet Warszawy na 2024 rok wynosi około 22,3 miliarda PLN.
