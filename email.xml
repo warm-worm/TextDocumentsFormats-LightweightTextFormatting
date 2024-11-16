@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataOfEmail>
+	<Sender>
+		<name>John</name>
+		<surame>Doe</surname>
+		<e-mail>johndoe@example.com</e-mail>
+	</Sender>
+	<Recipient>
+		<name>Jane</name>
+		<surname>Smith</surname>
+		<e-mail>janesmith@example.com</e-mail>
+	</Recipient>
+	<Subject>
+		<title>"Greetings"</title>
+	</Subject>
+	<MessageBody>
+		<message>"Hi"</message>
+	</MessageBody>
+</DataOfEmail>
