@@ -1,0 +1,10 @@
+{
+"brand": "Dell",
+"model": "Inspiron 15",
+"year": 2023,
+"RAMGB": 16,
+"HardDrive": "512 GB SSD",
+"OperatingSystem": "Windows 10 Home",
+"isTouchscreen": false,
+"devices": ["touchpad","webcam"]
+}
