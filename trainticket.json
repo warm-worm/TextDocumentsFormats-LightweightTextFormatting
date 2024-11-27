@@ -1,0 +1,11 @@
+[
+    {
+        "passenger_name":"Aleksandra Korniak",
+        "ticket_number":"WA50986478",
+        "departure_station": "Rzeszów Główny",
+        "arrival_station": "Kraków Główny",
+        "ticket_price": 23.03,
+        "is_refundable": true,
+        "departure_date": "01/12/2024"
+    }
+]
