@@ -2,7 +2,7 @@
 <DataOfEmail>
 	<Sender>
 		<name>John</name>
-		<surame>Doe</surname>
+		<surname>Doe</surname>
 		<e-mail>johndoe@example.com</e-mail>
 	</Sender>
 	<Recipient>
