@@ -1,4 +1,4 @@
-##Countries
+## Countries
 
 |Country|Capital|Currency|Currency Symbol|Population|
 |-------|-------|--------|---------------|----------|
